@@ -1,0 +1,26 @@
+main{
+    width:270px;
+    height:270px;
+    border: 1px solid gray ;
+
+    
+    /* background-color: blue; */
+
+    
+}
+
+main>div{
+    width: 100%;
+    height: 88px;
+    margin-bottom: 2px;
+    
+}
+
+main>div>div{
+   
+    width: 88px;
+    height:100%;
+    margin-right: 2px;
+    background-color: rgb(105, 238, 105);
+    float: right;
+}
